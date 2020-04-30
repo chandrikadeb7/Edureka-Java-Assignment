@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employees>
+    <employee>
+        <id>101</id>
+        <name>Chandrika Deb</name>
+        <gender>Female</gender>
+        <salary>600000</salary>
+        <address>Jamshedpur,Jharkhand</address>
+    </employee>
+</employees>

@@ -1,4 +1,3 @@
-package module8;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
